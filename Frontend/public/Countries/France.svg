@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+<svg className="w-4 h-4 me-2" fill="none" viewBox="0 0 20 15" xmlns="http://www.w3.org/2000/svg">
+    <rect width="19.1" height="13.5" x=".25" y=".75" fill="#fff" stroke="#F5F5F5" strokeWidth=".5"
+        rx="1.75" />
+    <mask id="a" style="mask-type:luminance" width="20" height="15" x="0" y="0"
+        maskUnits="userSpaceOnUse">
+        <rect width="19.1" height="13.5" x=".25" y=".75" fill="#fff" stroke="#fff" strokeWidth=".5"
+            rx="1.75" />
+    </mask>
+    <g mask="url(#a)">
+        <path fill="#F44653" d="M13.067.5H19.6v14h-6.533z" />
+        <path fill="#1035BB" fill-rule="evenodd" d="M0 14.5h6.533V.5H0v14z" clip-rule="evenodd" />
+    </g>
+=======
+<svg className="w-4 h-4 me-2" fill="none" viewBox="0 0 20 15" xmlns="http://www.w3.org/2000/svg">
+    <rect width="19.1" height="13.5" x=".25" y=".75" fill="#fff" stroke="#F5F5F5" strokeWidth=".5"
+        rx="1.75" />
+    <mask id="a" style="mask-type:luminance" width="20" height="15" x="0" y="0"
+        maskUnits="userSpaceOnUse">
+        <rect width="19.1" height="13.5" x=".25" y=".75" fill="#fff" stroke="#fff" strokeWidth=".5"
+            rx="1.75" />
+    </mask>
+    <g mask="url(#a)">
+        <path fill="#F44653" d="M13.067.5H19.6v14h-6.533z" />
+        <path fill="#1035BB" fill-rule="evenodd" d="M0 14.5h6.533V.5H0v14z" clip-rule="evenodd" />
+    </g>
+>>>>>>> f734d83 (Version upgraded with loder fix for signup)
+</svg>
